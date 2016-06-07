@@ -67,15 +67,5 @@
 		<mkdir dir="${war.dir}" />
 	</target>
 	
-	<target name="test" >
-		<sql
-		    driver="org.database.jdbcDriver"
-		    url="jdbc:database-url"
-		    userid="sa"
-		    password="pass"
-		    src="data.sql"
-		/>
-	</target>
-	
 	
 </project>
