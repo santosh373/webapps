@@ -11,13 +11,13 @@
         <img src="images/springsource.png">
       </td>
       <td>
-         <h1>MobileBanking Application JSP Page</h1>
+         <h1>Web Application JSP Page</h1>
       </td>
     </tr>
   </table>
 
   <br />
-  <p>This is the output of a JSP page that is part of the MobileBanking Application.</p>
+  <p>This is the output of a JSP page that is part of the Web Application.</p>
 
   <%= new String("Hello!") %>
 
